@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="algs4">
+    <CLASSES>
+      <root url="jar://D:/下载/【批量下载】stdlib-package等/学习资源/算法第四版/algs4.jar!/" />
+      <root url="jar://D:/下载/【批量下载】stdlib-package等/学习资源/算法第四版/stdlib-package.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/下载/【批量下载】stdlib-package等/学习资源/算法第四版/algs4.jar!/" />
+      <root url="jar://D:/下载/【批量下载】stdlib-package等/学习资源/算法第四版/stdlib-package.jar!/" />
+    </SOURCES>
+  </library>
+</component>
